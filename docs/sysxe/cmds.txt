@@ -1,0 +1,6 @@
+sysxe start <name>
+sysxe stop <name>
+sysxe restart <name>
+sysxe enable <name>
+sysxe disable <name>
+sysxe status <name>
